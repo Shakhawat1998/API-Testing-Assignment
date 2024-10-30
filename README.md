@@ -1,5 +1,5 @@
 # Project Title: dmoney REST API Functional Testing
-## Project Summary: This project aims to thoroughly test the functionality of the dmoney REST API,ensuring that all key operations perform as expected.<br/>The testing covers various user roles (Admin, Agent, Customer, Merchant) and critical financial transactions within the system.
+## Project Summary: This project comprehensively tests the dmoney REST API, verifying functionality across key roles (Admin, Agent, Customer, Merchant) and ensuring that essential financial transactions operate correctly.
 ## Technologies used in the project: 
 - Postman
 - newman
